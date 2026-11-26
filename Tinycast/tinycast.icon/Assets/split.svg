@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="ice" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#f4f8ff"/>
+      <stop offset="100%" stop-color="#d4e5ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M542 0 H1024 V1024 H562 C495 855 462 720 462 582 H554 C575 582 586 568 580 546 C548 395 506 215 542 0 Z" fill="url(#ice)"/>
+</svg>
